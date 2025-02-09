@@ -1,5 +1,5 @@
-# Final-Project
-This program offers a clean, easy-to-use interface to submit an order directly from Soicy Tires.
+# Tire Shop
+This program offers a clean, easy-to-use interface to submit an order directly from A Tire Shop.
 This program is used to submit orders directly to a tire shop.
 
 It starts with a friendly title for the shop details.
